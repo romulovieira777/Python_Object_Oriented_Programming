@@ -1,0 +1,30 @@
+Introduction text
+
+There are different ways to organize your code.
+
+The most basic approach is just to have command after command:
+
+engine = on
+rotateWheels = true
+...
+
+Then you could organize the code in functions, functional programming:
+
+start()
+turnLeft()
+drive()
+turnRight()
+stop()
+...
+
+Another way is to organize your code in objects: Object Oriented Programming
+
+robot1.start()
+robot1.turnLeft()
+robot1.drive()
+robot1.turnRight()
+robot1.stop()
+
+In this course we'll explain Object Oriented Programming (OOP).
+
+If you have any questions, feel free to ask.
