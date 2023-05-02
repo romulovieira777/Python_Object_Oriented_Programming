@@ -1,0 +1,15 @@
+Lecture Notes
+
+Key facts
+
+Objects variables are defined in a Class
+
+You can have more than one class in a program.
+
+Example:
+
+Create Objects Car, Motorbike with class Vehicle.
+
+Create Object Bob with the class Human.
+
+If a Motorbike would be created from class Human, it would have eyes and legs. Classes define the objects variables.

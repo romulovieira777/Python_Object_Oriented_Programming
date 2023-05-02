@@ -1,0 +1,7 @@
+Lecture Notes
+
+Key facts
+
+Multiple objects can be created from a class
+
+An object only has the variables defined in their class

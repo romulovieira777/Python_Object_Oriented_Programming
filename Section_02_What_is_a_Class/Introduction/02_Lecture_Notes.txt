@@ -1,0 +1,13 @@
+Lecture Notes
+
+Key facts
+
+Objects are created from a class
+
+A class defines the objects variables
+
+An object can have one ore more variables
+
+To create an object use  obj = Class()
+
+The line obj.variable is an objects variable

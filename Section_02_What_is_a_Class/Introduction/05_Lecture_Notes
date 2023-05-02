@@ -1,0 +1,16 @@
+Lecture Notes
+
+Key facts
+
+Classes can have methods
+
+class Car:
+    def drive():
+        ...
+    def accelerate():
+        ....
+Objects will have the same class methods available
+
+obj1.drive()
+obj2.drive()
+obj3.drive()

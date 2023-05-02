@@ -1,0 +1,9 @@
+Classes Intro
+
+In the real world you are surrounded by objects.  Why not in programming?
+
+- Objects can be represented digitally.
+
+- You can describe objects by their object variables.
+
+- Objects have a "parent" which is a class. A class is used to create an object.
