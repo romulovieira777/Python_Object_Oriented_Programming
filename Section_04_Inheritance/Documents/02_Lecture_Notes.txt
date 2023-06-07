@@ -1,0 +1,10 @@
+Lecture Notes
+
+Key facts
+
+Classes can inherit from one of more parent classes
+
+Example: Class Bob can inherit from parent classes Human and Superman
+
+class Bob(Human, Superman):
+    ....

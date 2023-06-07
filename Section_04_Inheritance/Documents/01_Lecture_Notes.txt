@@ -1,0 +1,7 @@
+Lecture Notes
+Key facts
+
+Inheritance exists in programming
+
+If a class inherits from a parent class, it gets all the variables and methods
+

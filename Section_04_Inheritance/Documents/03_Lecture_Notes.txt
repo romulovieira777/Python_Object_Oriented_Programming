@@ -1,0 +1,5 @@
+Lecture Notes
+
+Key facts
+
+If a method exists in both the parent class and the child class, the childs class method is used
