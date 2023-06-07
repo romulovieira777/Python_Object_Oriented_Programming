@@ -1,0 +1,7 @@
+Lecture Notes
+
+Key facts
+
+A variable can be private. Private variables cannot directly be accessed
+
+Getter and setter methods can be used to interact with private variables

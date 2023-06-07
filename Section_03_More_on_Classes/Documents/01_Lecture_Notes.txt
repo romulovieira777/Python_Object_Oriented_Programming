@@ -1,0 +1,9 @@
+Lecture Notes
+
+Key facts
+
+A constructor is the first method called upon creating an object
+
+A constructor is defined as def __init__():
+
+If a constructor is not defined, Python creates an empty constructor

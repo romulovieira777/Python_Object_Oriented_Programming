@@ -1,0 +1,7 @@
+Lecture Notes
+
+Key facts
+
+A destructor is called when deleting an object
+
+Destructor is part of a class
