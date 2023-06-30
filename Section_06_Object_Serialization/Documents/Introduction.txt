@@ -1,0 +1,15 @@
+Introduction
+
+What is serialization?
+
+Objects can be serialized:  converted into a text string
+
+This "text string" can be stored into a file.  Then you can load that text again later and reconstruct the object.
+
+There are some standard formats to convert objects into text
+
+JSON format
+
+YAML format
+
+Pickle format (not human readable)
