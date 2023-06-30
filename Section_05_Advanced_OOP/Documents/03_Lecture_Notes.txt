@@ -1,0 +1,7 @@
+Lecture Notes
+
+Key facts
+
+    - A factory method returns new objects
+
+    - The new object depends on the parameter given,  make("Cheese")  would return a different object than make("Bread")

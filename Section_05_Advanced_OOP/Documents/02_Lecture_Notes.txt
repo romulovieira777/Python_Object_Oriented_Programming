@@ -1,0 +1,7 @@
+Lecture Notes
+
+Key facts
+
+    - A super class can make inheriting classes to have their methods
+
+    - An interface is sometimes named abstract base class
