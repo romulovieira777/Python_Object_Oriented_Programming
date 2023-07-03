@@ -1,0 +1,9 @@
+Introduction
+
+In your program, not everything should be an object.
+
+What is the object or class belonging to getProgramVersion()  ?
+
+In this section we will introduce anti-OOP concepts
+
+Concepts that counter to the idea of object oriented programming.
